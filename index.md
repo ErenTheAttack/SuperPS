@@ -9,3 +9,8 @@ layout: default
 已经写好文书初稿了吗？
 - 还没有初稿：[**文书启航服务**](./subsec/qihang.md)
 - 我写好初稿啦：[**文书助推服务**](./subsec/zhutui.md)
+
+想要自己完成初稿的同学请参阅下面的文章，都是SuperPS工作室精选出来的，非常非常有帮助哦：
+- [如何写UCAS本科个人陈述](./subsec/ucasps.md)
+
+咨询请添加：
