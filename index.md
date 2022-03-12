@@ -12,5 +12,6 @@ layout: default
 
 想要自己完成初稿的同学请参阅下面的文章，都是SuperPS工作室精选出来的，非常非常有帮助哦：
 - [如何写UCAS本科个人陈述](./subsec/ucasps.md)
+- [关于PS的五个常见问题](./subsec/fiveqs.md)
 
 咨询请添加：
