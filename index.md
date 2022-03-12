@@ -10,6 +10,7 @@ layout: default
 - 还没有初稿：[**文书启航服务**](./subsec/qihang.md)
 - 我写好初稿啦：[**文书助推服务**](./subsec/zhutui.md)
 
+<!--
 ## 文书启航服务
 ### 服务流程：
 - 素材收集
@@ -77,6 +78,7 @@ layout: default
 - 每增加一个同类型专业（例：数学，统计）：+500RMB
 - 每增加一个不同类型专业（例：化学，数学）：+800RMB
 - 上述标准的排列组合则按照排列组合合并收费（例：增加一个新学校一个不同类型专业：+1400RMB）
+-->
 
 You can use the [editor on GitHub](https://github.com/justinjia21/liuxuewenshu/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
