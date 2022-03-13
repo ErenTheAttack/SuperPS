@@ -14,4 +14,5 @@ layout: default
 - [如何写UCAS本科个人陈述](./subsec/ucasps.md)
 - [关于PS的五个常见问题](./subsec/fiveqs.md)
 
-咨询请添加：
+咨询请添加：<br>
+准备好来英国了吗？查看更多来英福利：
