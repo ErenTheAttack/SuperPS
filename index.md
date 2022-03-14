@@ -16,6 +16,7 @@ layout: default
 - [准备你的个人陈述](./subsec/prepareps.md)
 - [PS时间线](./subsec/pstimeline.md)
 - [UCAS Blog: 写本科个人陈述](./subsec/writeps.md)
+- [如何完成你的个人陈述(精简版)](./subsec/completeps.md)
 
 咨询请添加：<br>
 准备好来英国了吗？查看更多来英福利：[抵英福利](./subsec/ukfuli.md)
