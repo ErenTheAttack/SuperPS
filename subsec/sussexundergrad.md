@@ -62,3 +62,6 @@ layout: default
 如果你被邀请面试，请回阅你的个人陈述，以便熟悉你提供给我们的信息。
 
 [back](../)
+
+编译：SuperPS <br>
+ref：University of Sussex Official site
