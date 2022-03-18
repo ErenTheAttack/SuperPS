@@ -22,6 +22,7 @@ layout: default
 - [UCAS Blog: 写本科个人陈述](./subsec/writeps.md)
 - [如何完成你的个人陈述(精简版)](./subsec/completeps.md)
 - [七招助你搞定个人陈述](./subsec/seventips.md)
+- [University of Sussex个人陈述撰写指导](./subsec/sussexundergrad.md)
 
 ### Graduate 研究生
 
