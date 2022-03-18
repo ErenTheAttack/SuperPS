@@ -6,6 +6,6 @@
 4，更新：院校对应的bg分享（V3.1）
 5，来英服务：免费电话卡全英免费邮寄，ubereats首单减10优惠码 （完成）+ gp注册
 6，网页浏览量 v + 0.1 (https://busuanzi.ibruce.info/)(完成)
-7，增加under和grad板块划分 v + 0.1
+7，增加under和grad板块划分 v + 0.1 （完成）
 
-当前version: v 2.2
+当前version: v 2.3
