@@ -27,6 +27,7 @@ layout: default
 ### Graduate 研究生
 
 关键词：\[研究生\]，\[个人陈述\]
+-[University of Sussex个人陈述撰写指导（研究生）](./subsec/ssgrad.md)
 
 咨询请添加：<br>
 准备好来英国了吗？查看更多来英福利：[抵英福利](./subsec/ukfuli.md)
