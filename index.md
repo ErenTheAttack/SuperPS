@@ -28,6 +28,7 @@ layout: default
 
 关键词：\[研究生\]，\[个人陈述\]
 - [University of Sussex个人陈述撰写指导（研究生）](./subsec/ssgrad.md)
+- [PS范文（Sussex MSc Experimental Psychology）](https://www.sussex.ac.uk/webteam/gateway/file.php?name=example-personal-statement-(8)-pdf.pdf&site=254)
 
 咨询请添加：<br>
 准备好来英国了吗？查看更多来英福利：[抵英福利](./subsec/ukfuli.md)
