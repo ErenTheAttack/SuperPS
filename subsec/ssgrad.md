@@ -41,6 +41,13 @@ layout: default
 例子：
 > 'My passion for Psychology stems from my interest in how dementia affects the personality of patients suffering with the condition. That's why I spent my gap year working with the Alzheimer's Society, supporting patients and families by visiting them at home and holding surgeries to give sufferers and carers someone to talk to.'
 
+不要从陈词滥调和过度使用的句子开始：“I have always wanted to study”或“I feel I have always had a passion for this subject.” 而是告诉我们是什么影响了你学习这门课程。
+
+例子：
+> 'It was not until my grandmother was diagnosed with Parkinson’s disease and ischaemic dementia that the link between brain functioning and cognition became a passion. 
+> Although a most unpleasant experience, the enormity of the precision at which the brain functions to produce our cognitive abilities, socially acceptable behaviours and intricate physiological processes astounded me.
+> I found myself questioning the cognitive functions and human behaviours I had previously just accepted, desperate to understand how the unseen and seemingly small entities within the brain could impact our daily behaviour.'
+
 [back](../)
 
 编译：SuperPS<br>
