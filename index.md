@@ -31,4 +31,5 @@ layout: default
 - [PS范文（Sussex MSc Experimental Psychology）](https://www.sussex.ac.uk/webteam/gateway/file.php?name=example-personal-statement-(8)-pdf.pdf&site=254)
 
 咨询请添加：<br>
-准备好来英国了吗？查看更多来英福利：[抵英福利](./subsec/ukfuli.md)
+准备好来英国了吗？查看更多来英福利：[抵英福利](./subsec/ukfuli.md)<br>
+IGCSE, A-Level 课程辅导和丰富资料: [SuperCIE](./SuperCIE/index.md)<br>
