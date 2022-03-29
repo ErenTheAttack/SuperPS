@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_ps
 ---
 
 ## 欢迎来到SuperCIE工作室
